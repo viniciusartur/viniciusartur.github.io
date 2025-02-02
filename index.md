@@ -6,7 +6,7 @@ title: Vinicius Artur - Senior DevOps Engineer
 # **Vinicius Artur**
 **Senior DevOps Engineer | Open Source Contributor | Problem Solver**
 
-Hi, my name is **[Vinicius Artur]**, and I’m a **Senior DevOps Engineer** with a passion for building scalable, reliable, and secure systems. I specialize in **cloud infrastructure, CI/CD pipelines, automation, and open-source contributions**. Over the years, I’ve worked on challenging projects, solved complex problems, and contributed to impactful open-source initiatives.
+Hi, my name is **Vinicius Artur**, and I’m a **Senior DevOps Engineer** with a passion for building scalable, reliable, and secure systems. I specialize in **cloud infrastructure, CI/CD pipelines, automation, and open-source contributions**. Over the years, I’ve worked on challenging projects, solved complex problems, and contributed to impactful open-source initiatives.
 
 ---
 
