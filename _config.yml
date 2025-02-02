@@ -1,11 +1,12 @@
 title: Vinicius Artur
-logo: "/images/photo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/photo.png?raw=true"
+description: >
   Senior DevOps Engineer
   <br><br>
-  Open Source Contributor | Problem Solver 
+  Cloud & Infrastructure Automation
+  <br><br>AWS, Azure, Terraform, Kubernetes, CI/CD, Observability
   <br><br>
-  <a href="https://www.linkedin.com/in/viniciusartur/"/>
+  <a href="https://www.linkedin.com/in/viniciusartur/">View My LinkedIn</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

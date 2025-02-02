@@ -49,5 +49,23 @@ I actively contribute to open-source projects, focusing on improving software qu
    - **Outcome**: Highlighted my problem-solving skills and ability to deliver measurable performance improvements.  
 
 ---
+
+## **Technical Skills**
+- **Cloud Platforms**: AWS, Azure, GCP  
+- **CI/CD Tools**: Jenkins, GitLab CI, GitHub Actions  
+- **Infrastructure as Code**: Terraform, Ansible  
+- **Containerization & Orchestration**: Docker, Kubernetes, Nomad  
+- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack  
+- **Programming & Scripting**: Python, Bash, Go  
+- **Version Control**: Git, GitHub, GitLab  
+
+---
+
+## **Conclusion**
+The examples above reflect my **technical expertise, collaborative mindset, and dedication to improving software systems**. I take pride in my ability to investigate issues thoroughly, communicate findings effectively, and deliver high-quality solutions. I’m confident that my skills and experiences align with the needs of your team, and I look forward to the opportunity to contribute to your projects.
+
+Thank you for visiting my portfolio. If you’d like to discuss my work further or explore how I can contribute to your team, feel free to reach out!
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
