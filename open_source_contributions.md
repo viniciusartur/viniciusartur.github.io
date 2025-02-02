@@ -1,18 +1,3 @@
-Hi, my name is **Vinicius Artur**, and I’m a **Senior DevOps Engineer** with a passion for building scalable, reliable, and secure systems. I specialize in **cloud infrastructure, CI/CD pipelines, automation, and open-source contributions**. Over the years, I’ve worked on challenging projects, solved complex problems, and contributed to impactful open-source initiatives.
-
----
-
-## **About Me**
-My journey in technology began when a **fellow student from a different course at my university offered free Linux lessons on Saturdays to anyone interested**. His passion for open-source planted the seed that grew into my deep enthusiasm for Linux and technology. Since then, I’ve dedicated my career to improving software delivery processes, optimizing infrastructure, and collaborating with cross-functional teams to deliver high-quality solutions.
-
-I take pride in my ability to **investigate, diagnose, and resolve complex issues**, as well as my commitment to **continuous improvement** and **open-source collaboration**. Below, you’ll find examples of my work, including **bug reports, pull requests, and contributions** to notable open-source projects.
-
----
-
-## Portfolio
-
----
-
 ## **Open Source Contributions**
 I actively contribute to open-source projects, focusing on improving software quality, fixing bugs, and optimizing performance. Here are some highlights of my contributions:
 
@@ -47,7 +32,3 @@ I actively contribute to open-source projects, focusing on improving software qu
    - **Context**: Optimized the Serenata Toolbox project, improving processing time by **87%**.  
    - **Action**: Identified inefficiencies, implemented solutions, and resolved reported issues.  
    - **Outcome**: Highlighted my problem-solving skills and ability to deliver measurable performance improvements.  
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
