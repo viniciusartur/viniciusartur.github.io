@@ -50,8 +50,9 @@ I actively contribute to open-source projects, focusing on improving software qu
 
 ---
 
-## ** Community Contributions **
+## **Community Contributions**
 I enjoy sharing knowledge and helping the tech community. In the past, I contributed to Stack Overflow, reaching over 37,000 developers with answers on Java, Maven, and Eclipse. While my focus is now on DevOps, Kubernetes, and cloud automation, I continue to engage in technical discussions and knowledge sharing.
+<br>
 [View my Stack Overflow profile](https://stackoverflow.com/users/818103/viniciusartur)
 
 ---
