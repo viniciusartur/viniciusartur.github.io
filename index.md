@@ -34,7 +34,7 @@ I actively contribute to open-source projects, focusing on improving software qu
 
 ### **Pull Requests**
 1. **Querido Diario Pull Request [#89](https://github.com/okfn-brasil/querido-diario/pull/89)**  
-   - **Context**: Contributed to Querido Diario, one of the 9 open-source innovations selected for the Nobel Prize Summit 2023.  
+   - **Context**: Contributed to Querido Diario, an open-source project selected as one of the 9 global innovations featured at the [Nobel Prize Summit 2023](https://www.undp.org/policy-centre/governance/events/undps-participation-nobel-prize-summit-2023) for its role in combating misinformation.
    - **Action**: Improved the project’s functionality and addressed issues.  
    - **Outcome**: Showcased my ability to work on impactful open-source projects and collaborate with global communities.  
 
